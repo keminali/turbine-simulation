@@ -1,5 +1,27 @@
 # turbine-simulation
+## Introduction
+
 simulate turbine with CFD
-##software
-geometry, e387 
-goal UDF
+## Geometry
+**Solidworks**
+
+**ANSYS BladeModeler**
+
+## meshing 
+**ICEM CFD**
+
+**ANSYS Meshing**
+
+**Pointwise**
+
+## Solver
+**Fluent**
+
+**Openfoam**
+
+## post-processing
+**Cfd-post**
+
+**Fluent**
+
+**Tecplot**
