@@ -3,7 +3,7 @@
 
 softwares for turbine simulation
 ## Geometry
-**Solidworks**
+1. **Solidworks**
 
 *Tutorial*
 
@@ -11,12 +11,12 @@ https://confluence.cornell.edu/display/SIMULATION/Wind+Turbine+Blade+FSI+(Part+1
 
 https://www.youtube.com/watch?v=0n87iA3YuFc
 
-**ANSYS BladeModeler**
+1. **ANSYS BladeModeler**
 
 ## meshing 
-**ICEM CFD**
+1. **ICEM CFD**
 
-**ANSYS Meshing**
+1. **ANSYS Meshing**
 
 *tutorial for turbine meshing*
 
@@ -31,16 +31,16 @@ inner domain, tetra, patch comforming
 
 outer domain, multizone/sweeping
 
-**Pointwise**
+1. **Pointwise**
 
 ## Solver
-**Fluent**
+1. **Fluent**
 
-**Openfoam**
+1. **Openfoam**
 
 ## post-processing
-**Cfd-post**
+1. **Cfd-post**
 
-**Fluent**
+1. **Fluent**
 
-**Tecplot**
+1. **Tecplot**
