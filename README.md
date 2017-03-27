@@ -27,9 +27,10 @@ https://confluence.cornell.edu/display/SIMULATION/Wind+Turbine+Blade+FSI+%28Part
 *tetra+hexa*
 mesh for MRF/sliding mesh
 
-inner domain, tetra, patch comforming
+* inner domain, tetra, patch comforming
 
-outer domain, multizone/sweeping
+* outer domain, multizone/sweeping
+![tetra+hexa mesh for one third of turbine](https://cloud.githubusercontent.com/assets/17129969/24366199/49402928-1310-11e7-946f-648d3c704fd2.png)
 
 1. **Pointwise**
 
