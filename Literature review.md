@@ -1,5 +1,5 @@
 
-#Research on turbine
+# Research on turbine
 
 1. The effect of **rotor depth**, **yaw and dual rotor interference** (e.g. Bahaj et al. 2007);
 
@@ -11,9 +11,9 @@
 
 [^reference 1]:  Chamorro, L. P., et al. "On the interaction between a turbulent open channel flow and an axial-flow turbine." Journal of Fluid Mechanics 716 (2013): 658-670
 
-##wind turbine vs marine turbine
+## wind turbine vs marine turbine
 
-###Differences:
+### Differences:
 
 1. The range of Reynolds number
 
