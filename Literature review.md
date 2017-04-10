@@ -9,7 +9,7 @@
 
 4. **cavitation** (e.g. Molland et al. 2004), **evolution of tip and hub vortices**(Felli, Camussi & Di Felice 2011) and theoretical derivations (Garrett & Cummins 2007). From [^reference1].
 
-[^reference1]:  Chamorro, L. P., et al. "On the interaction between a turbulent open channel flow and an axial-flow turbine." Journal of Fluid Mechanics 716 (2013): 658-670
+[^reference1]: Chamorro, L. P., et al. "On the interaction between a turbulent open channel flow and an axial-flow turbine." Journal of Fluid Mechanics 716 (2013): 658-670
 
 ## wind turbine vs marine turbine
 
