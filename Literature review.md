@@ -7,9 +7,9 @@
 
 3. flow velocity increase by using annular-ring-type augmentation channels (Radkey & Hibbs 1981);
 
-4. **cavitation** (e.g. Molland et al. 2004), **evolution of tip and hub vortices**(Felli, Camussi & Di Felice 2011) and theoretical derivations (Garrett & Cummins 2007). From [^reference1].
+4. **cavitation** (e.g. Molland et al. 2004), **evolution of tip and hub vortices**(Felli, Camussi & Di Felice 2011) and theoretical derivations (Garrett & Cummins 2007). From <sup>[1](#myfootnote1)</sup>.
 
-[^reference1]: Chamorro, L. P., et al. "On the interaction between a turbulent open channel flow and an axial-flow turbine." Journal of Fluid Mechanics 716 (2013): 658-670
+<a name="myfootnote1">1</a>:  Chamorro, L. P., et al. "On the interaction between a turbulent open channel flow and an axial-flow turbine." Journal of Fluid Mechanics 716 (2013): 658-670
 
 ## wind turbine vs marine turbine
 
