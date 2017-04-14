@@ -46,4 +46,4 @@ mesh for MRF/sliding mesh
 
 1. **Tecplot**
 
-
+$\omega=d\rho$
